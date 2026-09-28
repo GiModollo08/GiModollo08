@@ -1,57 +1,44 @@
-## Hi there 👋
-# Hi there! 👋
+# Olá! Eu sou a Giovanna 👋
 
-I'm Giovanna.
+🎓 Recém-formada em Ciência de Dados  
+📊 Interesse em Data Analytics e Marketing Analytics  
+📈 Formação em Marketing e Ciência de Dados  
 
-🎓 Data Science Graduate
+## 👩‍💻 Sobre mim
 
-📊 Background in Marketing and Data Analytics
+Sou formada em Marketing e recentemente concluí minha graduação em Ciência de Dados.
 
-🐍 Python
+Tenho interesse em utilizar dados para entender problemas, encontrar padrões e transformar informações em insights que possam apoiar decisões de negócio.
 
-🗄 SQL
+Atualmente, estou construindo meu portfólio com projetos acadêmicos e pessoais envolvendo análise de dados, bancos de dados, programação e Machine Learning.
 
-📈 Power BI
-
-🤖 Machine Learning
-
-## About Me
-
-I'm passionate about using data to solve real-world problems and continuously improving my skills through personal projects.
-
-## Technologies
+## 🛠️ Tecnologias e ferramentas
 
 - Python
-- Pandas
-- NumPy
-- Scikit-learn
 - SQL
 - MySQL
 - MongoDB
-- TensorFlow
-- Power BI
+- R
+- Pandas
+- Google Colab
+- Git e GitHub
 
-## Currently Learning
+## 📂 Projetos
 
+🚧 Meu portfólio está em construção!
+
+Em breve, você encontrará aqui projetos de:
+
+- 📊 Análise de Dados
+- 🗄️ Banco de Dados e SQL
+- 🤖 Machine Learning
+- 📈 Marketing Analytics
+
+## 📚 Atualmente estudando
+
+- Análise de Dados
+- Python para Dados
+- SQL
+- Visualização de Dados
 - Machine Learning
-- Deep Learning
-- Data Engineering
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/giovanna-modollo-martin-bueno-27877a15a/
-
-<!--
-**GiModollo08/GiModollo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Git e GitHub
